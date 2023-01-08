@@ -1,5 +1,17 @@
 # Tomasulo Algorithm
- 
+
+## Table of contents
+
+<!--ts-->
+   * [Introduction](#introduction)
+   * [Getting Started](#getting-started)
+      * [Prerequisites](#prerequisites)
+      * [Installation](#installation)
+      * [Run the testbench](#run-the-testbench)
+      * [Usage of macro](#usage-of-macro)
+   * [Reference](#reference)
+<!--te-->
+
 ## Introduction
  
    1. This project integrates a RISC-V processor with Tomasulo Algorithm and multilevel caches on a chip. Tomasulo Algorithm enables out-of-order execution with dynamic scheduling of instructions to improve instruction-level parallelism.
